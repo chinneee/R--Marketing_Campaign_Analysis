@@ -39,6 +39,4 @@ This analysis empowered us to achieve significant results:
 
 This journey through customer data has yielded invaluable insights. By understanding customer behavior and characteristics, we can craft more effective marketing campaigns that resonate with the right audience, driving success for the food company.
 
-## Want to Dig Deeper?
 
-For a more detailed exploration, check out the project here: https://github.com/mxr230040/Marketing_Campaign_Analysis
